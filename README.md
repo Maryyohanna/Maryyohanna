@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maryyohanna
 - 👀 I’m interested in ...CODING
 - 🌱 I’m currently learning ...HTML
-- 💞️ I’m looking to collaborate on ...frontend designs HTML,CSS AND JAVASCRIPT
+- 💞️ I’m looking to collaborate on ...frontend designs HTML, PYTHON AND JAVASCRIPT
 - 📫 How to reach me ... 19d4071@student.mau.edu.ng
 - 😄 Pronouns: ...she
 - ⚡ Fun fact: ...
